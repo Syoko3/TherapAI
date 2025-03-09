@@ -11,7 +11,7 @@ Responsive UI: The interface adapts for a smooth user experience.
 
 # This was completed during HackMerced X 
 Group members: Charlie Jurney, David Kyriakidis, Chaeyi Lee, Sohdai Yokokawa
-# Github was not used for version control, but everyone committed to this project.
+# Github was not used for version control, but everyone committed to this project using React App and VS Code.
 
 # Getting Started with Create React App
 
