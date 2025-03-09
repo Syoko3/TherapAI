@@ -9,13 +9,9 @@ Voice Selection: Users can choose from available system voices or languages for 
 Image Upload: Users can upload an image to personalize their chatbot experience.
 Responsive UI: The interface adapts for a smooth user experience.
 
-# This was completed by HackMerced X: 
-Group members:
-  Charlie Jurney
-  David Kyriakidis
-  Chaeyi Lee
-  Sohdai Yokokawa
-Github was not used for version control, but everyone committed to this project.
+# This was completed by HackMerced X 
+Group members: Charlie Jurney, David Kyriakidis, Chaeyi Lee, Sohdai Yokokawa
+# Github was not used for version control, but everyone committed to this project.
 
 # Getting Started with Create React App
 
